@@ -19,9 +19,9 @@ const Navbar = () => {
             <Link to="contact">Contact</Link>
           </li>
           <select>
-            <option value="eng">ENG</option>
-            <option value="ru">RU</option>
-            <option value="UZB">UZB</option>
+            <option value="eng">🇺🇸 ENG</option>
+            <option value="ru">🇷🇺 RU</option>
+            <option value="UZB">🇺🇿 UZB</option>
           </select>
         </ul>
       </div>
