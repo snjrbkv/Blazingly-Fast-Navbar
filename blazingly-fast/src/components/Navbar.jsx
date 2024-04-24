@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-
+import { langu } from "../lang/langu";
 import "./Navbar.css";
 const Navbar = () => {
   return (
     <div className="container">
       <div className="navbar">
         <h1>Fast</h1>
-
+        <h1>{langu.uz.navbar.logo}</h1>
         <ul>
           <li>
             <Link to="/">Home</Link>
