@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { langu } from "../lang/langu";
+//import { langu } from "../lang/langu";
 import "./Navbar.css";
 import LanguContext from "../context/LangueContext";
 import { useContext } from "react";
