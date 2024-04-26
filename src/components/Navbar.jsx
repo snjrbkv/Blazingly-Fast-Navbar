@@ -3,10 +3,7 @@ import { langu } from "../lang/langu";
 import "./Navbar.css";
 import LanguContext from "../context/LangueContext";
 import { useContext } from "react";
-// Home
-// Blog
-// Contact
-// Page
+// there are some errors that i cannot fix now idk
 const Navbar = () => {
   const [language, setLanguage] = useContext(LanguContext);
   return (
