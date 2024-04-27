@@ -19,7 +19,7 @@ export const langu = {
   },
   uz: {
     navbar: {
-      logo: "Oson Logo",
+      logo: "Logo",
       home: "Bosh Sahifa",
       blog: "Sharhlar",
       contact: "bog'lanish",
