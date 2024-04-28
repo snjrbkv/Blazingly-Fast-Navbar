@@ -22,7 +22,7 @@ export const langu = {
       logo: "Logo",
       home: "Bosh Sahifa",
       blog: "Sharhlar",
-      contact: "bog'lanish",
+      contact: "Bog'lanish",
       page: "sahifalar",
     },
   },
