@@ -2,7 +2,9 @@
 
 const Hello = () => {
   return (
-    <div>Hello</div>
+    <div>
+        <h1>Hello World</h1>
+    </div>
   )
 }
 
