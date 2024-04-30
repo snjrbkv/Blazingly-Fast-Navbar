@@ -16,6 +16,7 @@
 }
 .navbar ul li {
   list-style-type: none;
+  text-decoration: none;
 }
 .navbar ul li a {
   text-decoration: none;
